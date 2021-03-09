@@ -5,3 +5,4 @@ So what?
 Merge
 And another one
 branch feature
+conflict feature
