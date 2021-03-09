@@ -4,3 +4,4 @@ It scares me
 So what?
 Merge
 And another one
+branch feature
